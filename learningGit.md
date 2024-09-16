@@ -37,6 +37,6 @@ You can connect with developers around the world to ask and answer questions, le
 
 ## Personal Notes
 
-### Learning Experience
+### My Learning Experience
 I have learned how to create/clone repositories and commit edits but would like to learn more about more about how Git can be used.
 
