@@ -16,3 +16,8 @@ There are also lots of other online reading resources to help you learn Git:
 * Official Git project site.
 * ProGit book.
 * Git command list.
+
+## Online Courses
+* GitHub Skills offers free interactive courses that are built into GitHub with instant automated feedback and help. Learn to open your first pull request, make your first open source contribution, create a GitHub Pages site, and more. For more information about course offerings, see GitHub Skills.
+* Git branching is a free interactive tool for learning and practising Git concepts.
+* An interactive online Git course from Pluralsight can also teach you the basics of Git.
